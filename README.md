@@ -1,6 +1,6 @@
 ## Welcome to cryptery
 
-this is a C algorithm to decrypt w/ brute-force hashes
+This is a C algorithm to decrypt w/ brute-force hashes
 
 This version uses pure clang pthreads
 
